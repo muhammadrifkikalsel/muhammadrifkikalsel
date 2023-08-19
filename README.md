@@ -1,4 +1,11 @@
-### Hi there 👋
+# Halo Guys!
+
+Perkenalkan nama saya **Muhammad Rifki**.\
+Saya merupakan lulusan **Bangkit Academy** 2023 Batch 2 pada Mobile Development learning path dan mendapatkan kesempatan menjadi [Distinction Graduate](https://drive.google.com/drive/folders/sertifikat).\
+Saya juga memiliki gelar [Google Assosiate Android Developer](https://www.credential.net/dakuudabykl) sejak 2024.\
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/muhammad-rifki/)ku ya.
+
+
 
 <!--
 **muhammadrifkikalsel/muhammadrifkikalsel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
