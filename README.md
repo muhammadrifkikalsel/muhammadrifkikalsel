@@ -6,9 +6,9 @@ Saya juga memiliki gelar [Google Assosiate Android Developer](https://www.creden
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/muhammad-rifki/)ku ya.
 
 <p align="left">
-<a href="https://github.com/muhammadrifkikalsel">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=muhammadrifkikalsel&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=muhammadrifkikalsel&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/mrmuhammadrifki">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mrmuhammadrifki&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mrmuhammadrifki&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
